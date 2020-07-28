@@ -1,3 +1,7 @@
+# Novo código
+# Lembrando que uma função de grau n sempre terá n raízes que poderão ser reais ou imaginárias. Portanto, uma função do segundo grau sempre possui 2(duas) raízes
+# Aqui, o código mostra as raízes caso forem imaginárias, lembrando que j é a unidade imaginária. (j = sqrt(-1))
+
 from math import sqrt
 import cmath
 
