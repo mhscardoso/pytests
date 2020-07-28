@@ -1,3 +1,5 @@
+# realiza os cálculos da função de 2° grau, retorna o valor de delta e suas raízes, se houver.
+
 from math import sqrt
 
 def eq_2_grau(a, b, c):
