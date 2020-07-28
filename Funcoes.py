@@ -32,3 +32,4 @@ a = float(input("Enter A: "))
 b = float(input("Enter B: "))
 c = float(input("Enter C: "))
 eq_2_grau(a, b, c)
+
